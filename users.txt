@@ -1,0 +1,14 @@
+*Admin User *
+Username: admin	
+Password: Admin1shere
+
+
+*Regular Users*
+
+Username: N0702543
+Password: Password5926
+
+Username: N0601040
+Password: Password3926
+
+
